@@ -12,7 +12,7 @@ It is intended strictly for **educational and hobbyist purposes only**.
 
 This project builds upon the excellent work by [Pazi88](https://github.com/pazi88/E12_CAN_gauges), originally designed for a BMW E12 speedometer.  
 
-Pazi’s implementation has been successfully tested with **rusEFI Dash CANBUS** on a BMW E46, supporting:  
+Test implementation has been successfully tested with **rusEFI Dash CANBUS** with a BMW E46 CAN Dash , supporting:  
 - **RPM**  
 - **VSS (Vehicle Speed Sensor)**  
 - **CLT (Coolant Temperature)**  
@@ -51,3 +51,4 @@ The **schematic and hardware design** were adapted specifically to meet the requ
 ## 📜 License
 
 This project is open-source, non-commercial, and intended for **educational/hobbyist purposes only**.  
+Please respect the open-source spirit of this project — it is not to be used for making money
